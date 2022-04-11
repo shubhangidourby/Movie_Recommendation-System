@@ -1,7 +1,7 @@
 # Movie Recommendation System
 
 ### Try the final project at -
-<a href = "http://movie-dunia.herokuapp.com/">Click Here</a>
+<a href = "https://movie-system-dorbee.herokuapp.com/">Click Here</a>
 
 <img src="bird1.gif" alt="birds">
 
